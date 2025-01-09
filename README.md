@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0162-find-peak-element](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0670-maximum-swap](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0670-maximum-swap) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
