@@ -40,10 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0071-simplify-path) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Stack
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0071-simplify-path) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Two Pointers
 |  |
 | ------- |
