@@ -22,13 +22,13 @@ class LRUCache {
     }
     
     func get(_ key: Int) -> Int {
-        if let node = map[key] {
-            delete(node)
-            add(node)
-            return node!.val
+        guard let node = map[key] else {
+            return -1
         }
-
-        return -1
+            
+        delete(node)
+        add(node)
+        return node!.val
     }
     
     func put(_ key: Int, _ value: Int) {
