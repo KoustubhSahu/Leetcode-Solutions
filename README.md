@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
@@ -41,4 +42,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
