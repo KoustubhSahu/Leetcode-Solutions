@@ -10,11 +10,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0523-continuous-subarray-sum](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 ## Hash Table
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0523-continuous-subarray-sum](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0670-maximum-swap](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0670-maximum-swap) |
 ## Greedy
 |  |
@@ -86,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
