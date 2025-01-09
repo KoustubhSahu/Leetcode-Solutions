@@ -1,22 +1,23 @@
 class Solution {
     func maximumSwap(_ num: Int) -> Int {
         var digits = String(num).map { Int(String($0))! }
-        var sortedDigits = digits.sorted { $0 > $1 }
-        print(digits)
-        print(sortedDigits)
-        var low = -1, high = -1
-        for (i, digit) in digits.enumerated() {
-            if low == -1 && high == -1 && digits[i] != sortedDigits[i] {
-                low = digits[i]
-                high = sortedDigits[i]
-                digits[i] = high
-                break
+        var count = digits.count
+        var rightMax = Array(repeating: -1, count: count)
+
+        var currMaxInd = count - 1
+        for i in (0..<digits.count).reversed() {
+            if digits[i] > digits[currMaxInd] {
+                currMaxInd = i
             } 
+            rightMax[i] = currMaxInd
         }
 
-        for j in (0..<digits.count).reversed() {
-            if high == digits[j] {
-                digits[j] = low
+        for i in 0..<count {
+            var swapInd = rightMax[i]
+            if digits[i] != digits[swapInd] {
+                let temp = digits[i]
+                digits[i] = digits[swapInd]
+                digits[swapInd] = temp
                 break
             }
         }
