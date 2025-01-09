@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
