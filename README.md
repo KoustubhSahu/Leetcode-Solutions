@@ -49,11 +49,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0071-simplify-path) |
+| [0227-basic-calculator-ii](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Stack
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0071-simplify-path) |
+| [0227-basic-calculator-ii](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Two Pointers
 |  |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0050-powx-n) |
+| [0227-basic-calculator-ii](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0523-continuous-subarray-sum](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0670-maximum-swap](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0670-maximum-swap) |
 ## Greedy
