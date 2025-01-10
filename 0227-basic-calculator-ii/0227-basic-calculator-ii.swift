@@ -1,10 +1,11 @@
 class Solution {
     func calculate(_ s: String) -> Int {
+        let sArr = Array(s + "+")
         var stack = [Int]()
         var currentNumber = 0
         var lastOperation: Character = "+"
-        let temp = s + "+"
-        for ch in temp {
+        // let temp = s + "+"
+        for ch in sArr {
             if ch.isNumber {
                 currentNumber = currentNumber * 10 + Int(String(ch))!
             } else {
