@@ -8,11 +8,11 @@ class Solution {
         }
 
         let directions = [(-1, -1), (-1, 0), (-1, 1), (0, -1), (0, 1), (1, -1), (1, 0), (1, 1)]
-        var queue = [(0, 0, 1)]
+        var queue: Deque<(Int, Int, Int)> = [(0, 0, 1)]
         visited[0][0] = true
 
-        while !queue.isEmpty {
-            var (row, col, steps) = queue.removeFirst()
+        while !queue.isEmpty, let (row, col, steps) = queue.popFirst() {
+            
             if row == count - 1 && col == count-1 {
                 return steps
             }
