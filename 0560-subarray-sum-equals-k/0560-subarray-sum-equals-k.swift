@@ -11,7 +11,6 @@ class Solution {
             }
             map[sum, default: 0] += 1
         }
-
         return count
     }
 }
