@@ -16,7 +16,7 @@ class Solution {
         var result = [Int]()
         while maxFreq > 0 && result.count < k {
             if let values = mostFreq[maxFreq] {
-                result.append(contentsOf: values)
+                result += values
             }
             maxFreq -= 1
         }
