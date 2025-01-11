@@ -14,9 +14,9 @@ class Solution {
         }
 
         var result = [Int]()
-        while maxFreq > 0 && result.count < k {
-            if let values = mostFreq[maxFreq] {
-                result += values
+        while result.count < k {
+            if let arry = mostFreq[maxFreq] {
+                result += arry
             }
             maxFreq -= 1
         }
