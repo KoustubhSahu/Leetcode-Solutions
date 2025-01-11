@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0498-diagonal-traverse](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0523-continuous-subarray-sum](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Bucket Sort
 |  |
@@ -138,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Simulation
+|  |
+| ------- |
+| [0498-diagonal-traverse](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 <!---LeetCode Topics End-->
