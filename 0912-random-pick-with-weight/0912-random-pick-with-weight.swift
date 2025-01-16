@@ -1,15 +1,14 @@
 
 class Solution {
     var nums: [Int]
-    var prefixSum: [Int]
+    var prefixSum = [Int]()
     var sum = 0
     init(_ w: [Int]) {
         self.nums = w
-        prefixSum = Array(repeating: nums[0], count: nums.count)
-        for i in 1..<nums.count {
-            prefixSum[i] = prefixSum[i-1] + nums[i]
+        for num in nums {
+            sum += num
+            prefixSum.append(sum)
         }
-        sum = prefixSum[nums.count-1]
     }
     
     func pickIndex() -> Int {
