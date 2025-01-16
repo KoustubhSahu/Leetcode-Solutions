@@ -14,7 +14,7 @@ class Solution {
     func pickIndex() -> Int {
         let random = Int.random(in: 0..<sum)
 
-        var low = 0, high = nums.count
+        var low = 0, high = nums.count - 1
 
         while low <= high {
             let mid = (low + high) / 2
