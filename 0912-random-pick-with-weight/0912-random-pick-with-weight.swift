@@ -1,14 +1,14 @@
 
 class Solution {
     var nums: [Int]
-    var prefixSum = [Int]()
     var sum = 0
     init(_ w: [Int]) {
-        self.nums = w
-        for num in nums {
-            sum += num
-            prefixSum.append(sum)
+        var w = w
+        for i in 1..<w.count {
+            w[i] += w[i-1]
         }
+        nums = w
+        sum = nums[w.count-1]
     }
     
     func pickIndex() -> Int {
@@ -19,7 +19,7 @@ class Solution {
         while low <= high {
             let mid = (low + high) / 2
 
-            if random < prefixSum[mid] {
+            if random < nums[mid] {
                 high = mid - 1
             } else {
                 low = mid + 1
