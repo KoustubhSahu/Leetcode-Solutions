@@ -2,16 +2,18 @@
 class Solution {
     var nums: [Int]
     var prefixSum: [Int]
+    var sum = 0
     init(_ w: [Int]) {
         self.nums = w
         prefixSum = Array(repeating: nums[0], count: nums.count)
         for i in 1..<nums.count {
             prefixSum[i] = prefixSum[i-1] + nums[i]
         }
+        sum = prefixSum[nums.count-1]
     }
     
     func pickIndex() -> Int {
-        let random = Int.random(in: 0..<prefixSum[nums.count-1])
+        let random = Int.random(in: 0..<sum)
 
         var low = 0, high = nums.count
 
