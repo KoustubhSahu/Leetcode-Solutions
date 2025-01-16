@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0807-custom-sort-string](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0807-custom-sort-string) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -36,24 +37,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0807-custom-sort-string](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0807-custom-sort-string) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Tree
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## String
 |  |
 | ------- |
@@ -128,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Matrix
 |  |
