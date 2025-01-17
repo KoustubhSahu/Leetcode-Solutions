@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-toeplitz-matrix](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0777-toeplitz-matrix) |
 | [0912-random-pick-with-weight](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0912-random-pick-with-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1646-kth-missing-positive-number](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/1646-kth-missing-positive-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0912-random-pick-with-weight](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0912-random-pick-with-weight) |
+| [1646-kth-missing-positive-number](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/1646-kth-missing-positive-number) |
 ## Divide and Conquer
 |  |
 | ------- |
