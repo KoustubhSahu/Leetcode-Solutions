@@ -1,17 +1,8 @@
 class Solution {
     func isToeplitzMatrix(_ matrix: [[Int]]) -> Bool {
-        var map = [Int: Int]()
-
-        for r in 0..<matrix.count {
-            for c in 0..<matrix[0].count {
-                let diag = c - r
-                if let value = map[diag] {
-                    if value != matrix[r][c] {
-                        return false
-                    } 
-                } else {
-                        map[diag] = matrix[r][c]
-                    }
+        for r in 1..<matrix.count {
+            for c in 1..<matrix[0].count {
+                if matrix[r][c] != matrix[r-1][c-1] { return false }
             }
         }
         return true
