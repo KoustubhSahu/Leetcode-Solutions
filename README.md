@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0523-continuous-subarray-sum](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0777-toeplitz-matrix](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0777-toeplitz-matrix) |
 | [0912-random-pick-with-weight](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0912-random-pick-with-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Hash Table
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
+| [0777-toeplitz-matrix](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0777-toeplitz-matrix) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Bucket Sort
 |  |
