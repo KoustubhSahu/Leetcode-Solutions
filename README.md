@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0398-random-pick-index](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0398-random-pick-index) |
 | [0523-continuous-subarray-sum](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0807-custom-sort-string](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0807-custom-sort-string) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0227-basic-calculator-ii](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0227-basic-calculator-ii) |
+| [0398-random-pick-index](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0398-random-pick-index) |
 | [0523-continuous-subarray-sum](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0670-maximum-swap](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0670-maximum-swap) |
 | [0912-random-pick-with-weight](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0912-random-pick-with-weight) |
@@ -171,9 +173,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Randomized
 |  |
 | ------- |
+| [0398-random-pick-index](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0398-random-pick-index) |
 | [0912-random-pick-with-weight](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0912-random-pick-with-weight) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
