@@ -6,7 +6,7 @@
 var canFinish = function(numCourses, prerequisites) {
     let map = {};
     let visited = new Set();
-    let visitedCourses = new Set();
+
     prerequisites.forEach((prerequisite) => {
         map[prerequisite[0]] = map[prerequisite[0]] || [];
         map[prerequisite[0]].push(prerequisite[1]);
@@ -14,17 +14,16 @@ var canFinish = function(numCourses, prerequisites) {
     
     function dfs(curr) {
         if (visited.has(curr)) return false;
-        if (visitedCourses.has(curr)) return true;
+        if (!map[curr]) return true;
 
         visited.add(curr);
-        if(map[curr]) {
-            for (let j=0; j<map[curr].length; j++) {
-                if (!dfs(map[curr][j])) return false;
-            }
+       
+        for (let j=0; j<map[curr].length; j++) {
+            if (!dfs(map[curr][j])) return false;
         }
         
+        
         visited.delete(curr);
-        visitedCourses.add(curr);
         delete map[curr];
         return true;
     }
