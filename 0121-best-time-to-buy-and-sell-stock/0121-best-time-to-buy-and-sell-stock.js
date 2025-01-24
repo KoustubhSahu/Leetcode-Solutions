@@ -4,10 +4,10 @@
  */
 var maxProfit = function(prices) {
     let [rightMax, maxProfit] = [prices.at(-1), 0];
+    
     for (let i=prices.length-2; i>=0; i--) {
-        if (prices[i] > rightMax) rightMax = prices[i];
-
-        if (rightMax-prices[i] > maxProfit) maxProfit = rightMax-prices[i];
+        rightMax = Math.max(rightMax, prices[i]);
+        maxProfit = Math.max(maxProfit, rightMax-prices[i]);
     }
 
     return maxProfit;
