@@ -18,7 +18,9 @@ var longestOnes = function(nums, k) {
                 k--;
             }
         }
-        max = Math.max(max, j-i+1);
+        let temp = j-i+1;
+        max = max>temp ? max : temp;
+        // max = Math.max(max, j-i+1);
         j++;
     }
 
