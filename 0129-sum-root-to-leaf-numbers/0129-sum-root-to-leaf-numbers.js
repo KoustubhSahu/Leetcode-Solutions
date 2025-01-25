@@ -15,13 +15,13 @@ var sumNumbers = function(root) {
     let pathNum = 0;
 
     function dfs (currNode, currPathNum) {
-        if (currNode == null) return -1;
+        if (currNode == null) return null;
 
         currPathNum = currPathNum*10 + currNode.val;
         let left = dfs(currNode.left, currPathNum);
         let right = dfs(currNode.right, currPathNum);
 
-        if (left==-1 && right==-1) {
+        if (left==null && right==null) {
             sum += currPathNum;
         }
 
