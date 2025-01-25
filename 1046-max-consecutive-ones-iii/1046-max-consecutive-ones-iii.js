@@ -11,17 +11,14 @@ var longestOnes = function(nums, k) {
         if (nums[j] == 0) {
             zero++;
             while (zero>k) {
-            if (nums[i] == 0) {
-                zero--;
-            }
+                if (nums[i] == 0) {
+                    zero--;
+                }
             i++;
-        }
+            }
         }
 
-        
-
-        let temp = j-i+1;
-        max = max>temp ? max : temp;
+        max = Math.max(max, j-i+1);
         j++;
     }
 
