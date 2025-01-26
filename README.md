@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0071-simplify-path) |
+| [0076-minimum-window-substring](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0227-basic-calculator-ii](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0415-add-strings](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0807-custom-sort-string](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0807-custom-sort-string) |
@@ -210,5 +212,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [1046-max-consecutive-ones-iii](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
