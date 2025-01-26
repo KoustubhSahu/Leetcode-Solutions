@@ -17,12 +17,12 @@ var addStrings = function(num1, num2) {
         }
 
         carry = parseInt(currSum/10);
-        result.push(`${currSum%10}`);
+        result.push(currSum%10);
         i--;
         j--;
     }
 
-    if (carry == 1) result.push("1");
+    if (carry == 1) result.push(1);
 
     return result.reverse().join("");
 };
