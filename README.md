@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0065-valid-number](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0065-valid-number) |
 | [0071-simplify-path](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0227-basic-calculator-ii](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0227-basic-calculator-ii) |
