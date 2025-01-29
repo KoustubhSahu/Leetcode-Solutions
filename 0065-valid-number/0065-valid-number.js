@@ -3,6 +3,13 @@
  * @return {boolean}
  */
 var isNumber = function(s) {
+    if(s == 'Infinity' || s == '-Infinity' || s == '+Infinity')
+        return false;
+    return !isNaN(s);
+};
+
+
+var isNumber2 = function(s) {
     if (s == "") return false;
     s = s.toLowerCase();
     if (s[0] == "e" || s[s.length-1] == "e") return false;
@@ -20,13 +27,10 @@ var isNumber = function(s) {
     return true
 
     function isValid(str, allowDecimal) {
-        // if s.isEmpty { return false }
 
         let hasNumber = false
         let hasDecimal = false
-        console.log(str);    
         for (let i=0; i<str.length; i++) {
-            
             let ch = str[i]
             if (ch == "+" || ch == "-") {
                 if (i != 0) { return false } 
