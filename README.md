@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0227-basic-calculator-ii](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 ## Linked List
 |  |
@@ -218,10 +221,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sliding Window
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [1046-max-consecutive-ones-iii](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
