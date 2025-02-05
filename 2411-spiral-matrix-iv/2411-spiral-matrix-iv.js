@@ -23,7 +23,7 @@ var spiralMatrix = function(m, n, head) {
         node = node.next;
         let [x, y] = [i+direction[d][0], j+direction[d][1]];
         
-        if (((x >= m) || (y >= n) || (x < 0) || (y < 0) || (arr[x][y] != -1))) {
+        if (x >= m || y >= n || x < 0 || y < 0 || arr[x][y] != -1) {
             d = (d+1)%4;
         }
         i += direction[d][0];
