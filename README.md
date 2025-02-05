@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/1646-kth-missing-positive-number) |
+| [2411-spiral-matrix-iv](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/2411-spiral-matrix-iv) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0146-lru-cache) |
+| [2411-spiral-matrix-iv](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/2411-spiral-matrix-iv) |
 ## Design
 |  |
 | ------- |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0777-toeplitz-matrix](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0777-toeplitz-matrix) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
+| [2411-spiral-matrix-iv](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/2411-spiral-matrix-iv) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0415-add-strings](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
+| [2411-spiral-matrix-iv](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/2411-spiral-matrix-iv) |
 ## Randomized
 |  |
 | ------- |
