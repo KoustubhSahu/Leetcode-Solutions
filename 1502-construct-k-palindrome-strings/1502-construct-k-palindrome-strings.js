@@ -1,0 +1,21 @@
+/**
+ * @param {string} s
+ * @param {number} k
+ * @return {boolean}
+ */
+var canConstruct = function(s, k) {
+    if (k > s.length) return false;
+    let map = {};
+    for (let ch of s) {
+        if (!map[ch]) map[ch] = 0;
+        map[ch]++
+    }
+
+    for (let key in map) {
+        if (map[key]%2 == 1) {
+            k--;
+            if (k<0) return false;
+        }
+    }
+    return true;
+};
