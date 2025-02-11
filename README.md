@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/1646-kth-missing-positive-number) |
+| [2139-detect-squares](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/2139-detect-squares) |
 | [2411-spiral-matrix-iv](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/2411-spiral-matrix-iv) |
 ## Hash Table
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-custom-sort-string](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0807-custom-sort-string) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1502-construct-k-palindrome-strings](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
+| [2139-detect-squares](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/2139-detect-squares) |
 ## Sorting
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0155-min-stack) |
+| [2139-detect-squares](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/2139-detect-squares) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1502-construct-k-palindrome-strings](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
+| [2139-detect-squares](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/2139-detect-squares) |
 ## Simulation
 |  |
 | ------- |
