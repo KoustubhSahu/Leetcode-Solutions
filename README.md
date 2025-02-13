@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-random-pick-with-weight](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0912-random-pick-with-weight) |
 | [1046-max-consecutive-ones-iii](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1539-diagonal-traverse-ii](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/1539-diagonal-traverse-ii) |
 | [1646-kth-missing-positive-number](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/1646-kth-missing-positive-number) |
 | [2139-detect-squares](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/2139-detect-squares) |
 | [2411-spiral-matrix-iv](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/2411-spiral-matrix-iv) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0807-custom-sort-string](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0807-custom-sort-string) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1539-diagonal-traverse-ii](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/1539-diagonal-traverse-ii) |
 ## Tree
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [1539-diagonal-traverse-ii](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/1539-diagonal-traverse-ii) |
 ## Quickselect
 |  |
 | ------- |
