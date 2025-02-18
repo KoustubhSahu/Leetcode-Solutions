@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/1646-kth-missing-positive-number) |
 | [2139-detect-squares](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/2139-detect-squares) |
 | [2411-spiral-matrix-iv](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/2411-spiral-matrix-iv) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Hash Table
 |  |
 | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1539-diagonal-traverse-ii](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/1539-diagonal-traverse-ii) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Quickselect
 |  |
 | ------- |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [2411-spiral-matrix-iv](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/2411-spiral-matrix-iv) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Randomized
 |  |
 | ------- |
