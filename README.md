@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0071-simplify-path) |
+| [0143-reorder-list](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0227-basic-calculator-ii](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0227-basic-calculator-ii) |
@@ -120,12 +121,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0143-reorder-list](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0143-reorder-list) |
 ## Linked List
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0143-reorder-list](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [2411-spiral-matrix-iv](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/2411-spiral-matrix-iv) |
 ## Design
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/KoustubhSahu/Leetcode-Solutions/tree/master/0143-reorder-list) |
 ## Breadth-First Search
 |  |
 | ------- |
